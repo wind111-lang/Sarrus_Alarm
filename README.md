@@ -1,8 +1,8 @@
 # Sarrus_Alarm
 
-prototype version.
+prototype
 
 # Bugs
 
-- Buttons can't disable action.
+- Can't disable action.
   - STOP, Answer button 
